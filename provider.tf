@@ -1,5 +1,5 @@
 provider aws {
-  access_key = "AKIAWJWXJDPK4VK73LNZ"
-  secret_key = "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"
+  access_key = "AKIAVFK6HGGGYAMTKSQT"
+  secret_key = "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"
   region = "us-east-1"
 }
